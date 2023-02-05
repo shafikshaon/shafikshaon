@@ -39,6 +39,11 @@ Here are some ideas to get you started:
   <img src="https://github-stats-nine-chi.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&username=shafikshaon" height="200" alt="languages graph"  />
 </div>
 
+
+
+
+
+
 ## 🐍 Snake
 
 <img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/output/snake.svg" alt="Snake animation" />
