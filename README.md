@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 
 ## ❓ My StackOverflow Stats:
 
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=4751726" height="300" />
+<a href="https://stackoverflow.com/users/4751726/shafik" target="_blank"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4751726" height="300" /></a>
+
 
 ## 🐍 Snake
 
