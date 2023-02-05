@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 🐍 Snake
 
-<img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/output/snake.svg" alt="Snake animation" />
 
 
 ## 📖 My Latest post's on Medium
