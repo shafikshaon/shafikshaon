@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/output/snake.svg" alt="Snake animation" />
 
+## :books: Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 ## 📫 Reach me:
 
 <div align="center">
