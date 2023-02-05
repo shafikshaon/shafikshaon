@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=shafikshaon&&style=flat-square&color=green" align="center" />
+</div> 
 <!--
 **shafikshaon/shafikshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
 profile.
@@ -42,4 +44,12 @@ Here are some ideas to get you started:
   <img src="https://github-stats-nine-chi.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&username=shafikshaon" height="200" alt="languages graph"  />
 </div>
 
+## 🐍 Snake
 
+<img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/blob/output/snake.svg" alt="Snake animation" />
+
+
+## 📖 My Latest post's on Medium
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=shafikshaon&theme=gruvbox_light" alt="Layout with last medium posts"  />
+</div>
