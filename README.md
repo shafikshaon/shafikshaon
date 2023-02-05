@@ -25,6 +25,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+
+## 🔃 My stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafikshaon" alt="shafikshaon" />
+</p>
+
+<div align="center">
+  <img src="https://github-stats-nine-chi.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&username=shafikshaon" height="200" alt="stats graph"  />
+  <img src="https://github-stats-nine-chi.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&username=shafikshaon" height="200" alt="languages graph"  />
+</div>
+
+## 🐍 Snake
+
+<img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/output/snake.svg" alt="Snake animation" />
 
 ## 📫 Reach me:
 
@@ -46,14 +63,7 @@ Here are some ideas to get you started:
 </a>  
 </div>  
 
-## 🔃 My stats:
 
-<div align="center">
-  <img src="https://github-stats-nine-chi.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&username=shafikshaon" height="200" alt="stats graph"  />
-  <img src="https://github-stats-nine-chi.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&username=shafikshaon" height="200" alt="languages graph"  />
-</div>
-
-## 🐍 Snake
 
 <img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/output/snake.svg" alt="Snake animation" />
 
