@@ -30,12 +30,7 @@ Here are some ideas to get you started:
 -->
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11306](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/11306) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-2. ❗️ Opened issue [#11227](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/11227) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-<!--END_SECTION:activity-->
 
-1. ❗️ Opened issue [#11306](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/11306) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-2. ❗️ Opened issue [#11227](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/11227) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
 
 
 ## 🔃 My GitHub Stats:
