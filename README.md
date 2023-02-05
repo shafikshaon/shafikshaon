@@ -82,5 +82,10 @@ Here are some ideas to get you started:
 ## 📕 My Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Copy and Shallow Copy in Python](https://shafik.io/2022/12/deep-copy-and-shallow-copy-in-python.html)
+- [Stack in Python: How, why, and where?](https://shafik.io/2022/09/stack-in-python-how-why-and-where.html)
+- [Difference Between stopPropagation and preventDefault?](https://shafik.io/2021/03/difference-between-stoppropagation-and-preventdefault.html)
+- [How to Setup Project Specific Git Configuration?](https://shafik.io/2021/03/how-to-setup-project-specific-git-configuration.html)
+- [Basic Concepts of CSS Flexbox Layout](https://shafik.io/2019/12/basic-concepts-of-css-flexbox-layout.html)
 <!-- BLOG-POST-LIST:END -->
 
