@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <!--
 **shafikshaon/shafikshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
 profile.
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 </div>  
 
 ## 🔃 My stats:
+
 <div align="center">
   <img src="https://github-stats-nine-chi.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&theme=vue&locale=en&hide_border=false&username=shafikshaon&custom_title=shafikshaon GitHub Stats" height="150" alt="stats graph"  />
   <img src="https://github-stats-nine-chi.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&username=shafikshaon" height="150" alt="languages graph"  />
