@@ -3,6 +3,14 @@
 <img src="https://komarev.com/ghpvc/?username=shafikshaon&&style=flat-square&color=green" align="center" />
 </div> 
 
+### <div align="center">I'm Shafik, a full-time full-stack developer 👨‍💻 since 2018 🚀</div>
+
+- 🔭 I’m currently working on [Vivasoft ltd](https://www.vivasoftltd.com/)
+- 🌱 I’m currently learning **NestJS**, **DynamoDB** and **Kubernetes**
+- 💬 Ask me about anything related to **Python** and **Django**
+- 😄 Pronouns: He/Him
+
+
 <!--
 **shafikshaon/shafikshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
 profile.
@@ -18,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📫 How to reach me:
+## 📫 Reach me:
 
 <div align="center">
 <a href="https://twitter.com/shafikshaon" target="_blank">
@@ -50,7 +58,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/output/snake.svg" alt="Snake animation" />
 
 
-## 📖 My Latest post's on Medium
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=shafikshaon&theme=gruvbox_light" alt="Layout with last medium posts"  />
-</div>
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
