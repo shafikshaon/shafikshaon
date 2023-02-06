@@ -2,7 +2,7 @@ name: Latest stack overflow activity
 on:
   schedule:
     # Runs every 59 minutes
-    - cron: '/59 * * * *'
+    - cron: '*/59 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
