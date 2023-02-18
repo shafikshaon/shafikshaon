@@ -39,11 +39,6 @@ Here are some ideas to get you started:
 - [Answer by shafik for SSL certificates and https for AWS hosted django site](https://stackoverflow.com/questions/69939738/ssl-certificates-and-https-for-aws-hosted-django-site/69939782#69939782)
 - [Answer by shafik for How to add conditions with VUE for classes](https://stackoverflow.com/questions/69939615/how-to-add-conditions-with-vue-for-classes/69939750#69939750)
 - [Answer by shafik for AttributeError: module &#39; &#39; has no attribute &#39;Command&#39;](https://stackoverflow.com/questions/69938223/attributeerror-module-has-no-attribute-command/69939668#69939668)
-- [Answer by shafik for How do I get the an object by name and highest timestamp](https://stackoverflow.com/questions/69939423/how-do-i-get-the-an-object-by-name-and-highest-timestamp/69939567#69939567)
-- [Answer by shafik for Common models in Django Rest Framework](https://stackoverflow.com/questions/69925060/common-models-in-django-rest-framework/69925101#69925101)
-- [Answer by shafik for Django SUM 2 Column with Different Condition](https://stackoverflow.com/questions/69924627/django-sum-2-column-with-different-condition/69924831#69924831)
-- [Answer by shafik for django.core.exceptions.ImproperlyConfigured: AUTH_USER_MODEL refers to model &#39;app.User&#39; that has not been installed](https://stackoverflow.com/questions/69924657/django-core-exceptions-improperlyconfigured-auth-user-model-refers-to-model-ap/69924677#69924677)
-- [Answer by shafik for Django, warning as VIEW return queryset unordered](https://stackoverflow.com/questions/69924456/django-warning-as-view-return-queryset-unordered/69924620#69924620)
 <!-- STACKOVERFLOW:END -->
 
 
