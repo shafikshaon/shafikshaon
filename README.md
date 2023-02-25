@@ -32,15 +32,6 @@ Here are some ideas to get you started:
 2. ❗️ Opened issue [#11227](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/11227) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
 <!--END_SECTION:activity-->
 
-## ❓ StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by shafik for How to delete all records which is 24 hours old using django ORM?](https://stackoverflow.com/questions/73517877/how-to-delete-all-records-which-is-24-hours-old-using-django-orm/73517951#73517951)
-- [Answer by shafik for Django restframework viewset serializer KeyError](https://stackoverflow.com/questions/69998671/django-restframework-viewset-serializer-keyerror/69998832#69998832)
-- [Answer by shafik for SSL certificates and https for AWS hosted django site](https://stackoverflow.com/questions/69939738/ssl-certificates-and-https-for-aws-hosted-django-site/69939782#69939782)
-- [Answer by shafik for How to add conditions with VUE for classes](https://stackoverflow.com/questions/69939615/how-to-add-conditions-with-vue-for-classes/69939750#69939750)
-- [Answer by shafik for AttributeError: module &#39; &#39; has no attribute &#39;Command&#39;](https://stackoverflow.com/questions/69938223/attributeerror-module-has-no-attribute-command/69939668#69939668)
-<!-- STACKOVERFLOW:END -->
-
 
 ## Skills
 
@@ -80,6 +71,15 @@ Here are some ideas to get you started:
 ## ❓ My StackOverflow Stats:
 
 <a href="https://stackoverflow.com/users/4751726/shafik" target="_blank"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4751726" height="300" /></a>
+
+-----
+<!-- STACKOVERFLOW:START -->
+- [Answer by shafik for How to delete all records which is 24 hours old using django ORM?](https://stackoverflow.com/questions/73517877/how-to-delete-all-records-which-is-24-hours-old-using-django-orm/73517951#73517951)
+- [Answer by shafik for Django restframework viewset serializer KeyError](https://stackoverflow.com/questions/69998671/django-restframework-viewset-serializer-keyerror/69998832#69998832)
+- [Answer by shafik for SSL certificates and https for AWS hosted django site](https://stackoverflow.com/questions/69939738/ssl-certificates-and-https-for-aws-hosted-django-site/69939782#69939782)
+- [Answer by shafik for How to add conditions with VUE for classes](https://stackoverflow.com/questions/69939615/how-to-add-conditions-with-vue-for-classes/69939750#69939750)
+- [Answer by shafik for AttributeError: module &#39; &#39; has no attribute &#39;Command&#39;](https://stackoverflow.com/questions/69938223/attributeerror-module-has-no-attribute-command/69939668#69939668)
+<!-- STACKOVERFLOW:END -->
 
 
 ## 🐍 Snake
