@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 -->
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shafikshaon/mess_balance/pull/1) in [shafikshaon/mess_balance](https://github.com/shafikshaon/mess_balance)
-2. ❗️ Opened issue [#11227](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/11227) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
+1. 🎉 Merged PR [#3](https://github.com/shafikshaon/mandrill-webhooks/pull/3) in [shafikshaon/mandrill-webhooks](https://github.com/shafikshaon/mandrill-webhooks)
+2. 🎉 Merged PR [#1](https://github.com/shafikshaon/mess_balance/pull/1) in [shafikshaon/mess_balance](https://github.com/shafikshaon/mess_balance)
 <!--END_SECTION:activity-->
 
 
