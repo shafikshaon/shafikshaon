@@ -115,10 +115,10 @@ Here are some ideas to get you started:
 ## 📕 My Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Copy and Shallow Copy in Python](https://shafik.io/2022/12/deep-copy-and-shallow-copy-in-python.html)
-- [Stack in Python: How, why, and where?](https://shafik.io/2022/09/stack-in-python-how-why-and-where.html)
-- [Difference Between stopPropagation and preventDefault?](https://shafik.io/2021/03/difference-between-stoppropagation-and-preventdefault.html)
-- [How to Setup Project Specific Git Configuration?](https://shafik.io/2021/03/how-to-setup-project-specific-git-configuration.html)
-- [Basic Concepts of CSS Flexbox Layout](https://shafik.io/2019/12/basic-concepts-of-css-flexbox-layout.html)
+- [Understanding Deep Copy and Shallow Copy in Python: A Guide for Beginners](https://shafik.xyz/2022/12/understanding-deep-copy-and-shallow-copy-in-python-a-guide-for-beginners.html)
+- [A Comprehensive Guide to Implementing Stack in Python: Methods, Operations, and Applications](https://shafik.xyz/2022/09/a-comprehensive-guide-to-implementing-stack-in-python-methods-operations-and-applications.html)
+- [Exploring the Difference Between stopPropagation and preventDefault in JavaScript](https://shafik.xyz/2021/03/exploring-the-difference-between-stoppropagation-and-preventdefault-in-javascript.html)
+- [Setting up Project-Specific Git Configuration](https://shafik.xyz/2021/03/setting-up-project-specific-git-configuration.html)
+- [CSS Flexbox Layout: Basic Concepts and Properties Explained](https://shafik.xyz/2019/12/css-flexbox-layout-basic-concepts-and-properties-explained.html)
 <!-- BLOG-POST-LIST:END -->
 
