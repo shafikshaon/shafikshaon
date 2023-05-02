@@ -115,10 +115,10 @@ Here are some ideas to get you started:
 ## 📕 My Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Development Unveiled: A Comprehensive Step-by-Step Guideline for Success](https://shafik.xyz/2023/05/backend-development-unveiled-a-comprehensive-step-by-step-guideline-for-success.html)
-- [Understanding DNS: A Step-by-Step Guide](https://shafik.xyz/2023/04/understanding-dns-a-step-by-step-guide.html)
-- [Understanding Deep Copy and Shallow Copy in Python: A Guide for Beginners](https://shafik.xyz/2022/12/understanding-deep-copy-and-shallow-copy-in-python-a-guide-for-beginners.html)
-- [A Comprehensive Guide to Implementing Stack in Python: Methods, Operations, and Applications](https://shafik.xyz/2022/09/a-comprehensive-guide-to-implementing-stack-in-python-methods-operations-and-applications.html)
-- [Exploring the Difference Between stopPropagation and preventDefault in JavaScript](https://shafik.xyz/2021/03/exploring-the-difference-between-stoppropagation-and-preventdefault-in-javascript.html)
+- [Backend Journey: Mastering Advanced Scaling Techniques for Modern Backend Development](https://shafik.xyz/2023/05/backend-journey-mastering-advanced-scaling-techniques-for-modern-backend-development.html)
+- [Backend Journey: Mastering Monitoring for Modern Backend Development](https://shafik.xyz/2023/05/backend-journey-mastering-monitoring-for-modern-backend-development.html)
+- [Backend Journey: Mastering Web Servers for Robust Backend Development](https://shafik.xyz/2023/05/backend-journey-mastering-web-servers-for-robust-backend-development.html)
+- [Backend Journey: Embracing Docker and Kubernetes in the Era of Containerization and Virtualization](https://shafik.xyz/2023/05/backend-journey-embracing-docker-and-kubernetes-in-the-era-of-containerization-and-virtualization.html)
+- [Backend Journey: Exploring Message Brokers in Backend Architecture](https://shafik.xyz/2023/05/backend-journey-exploring-message-brokers-in-backend-architecture.html)
 <!-- BLOG-POST-LIST:END -->
 
