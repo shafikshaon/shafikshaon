@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 -->
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shafikshaon/boring-scripts/pull/1) in [shafikshaon/boring-scripts](https://github.com/shafikshaon/boring-scripts)
-2. ❗️ Closed issue [#1](https://github.com/shafikshaon/shafik.io/issues/1) in [shafikshaon/shafik.io](https://github.com/shafikshaon/shafik.io)
+1. 🎉 Merged PR [#4](https://github.com/shafikshaon/boring-scripts/pull/4) in [shafikshaon/boring-scripts](https://github.com/shafikshaon/boring-scripts)
+2. 🎉 Merged PR [#2](https://github.com/shafikshaon/boring-scripts/pull/2) in [shafikshaon/boring-scripts](https://github.com/shafikshaon/boring-scripts)
 <!--END_SECTION:activity-->
 
 
