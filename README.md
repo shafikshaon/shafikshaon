@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 -->
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/shafikshaon/boring-scripts/pull/3) in [shafikshaon/boring-scripts](https://github.com/shafikshaon/boring-scripts)
-2. 🎉 Merged PR [#5](https://github.com/shafikshaon/boring-scripts/pull/5) in [shafikshaon/boring-scripts](https://github.com/shafikshaon/boring-scripts)
+1. 🎉 Merged PR [#1](https://github.com/shafikshaon/bd-income-tax-calculator/pull/1) in [shafikshaon/bd-income-tax-calculator](https://github.com/shafikshaon/bd-income-tax-calculator)
+2. 🎉 Merged PR [#2](https://github.com/shafikshaon/bd-income-tax-calculator/pull/2) in [shafikshaon/bd-income-tax-calculator](https://github.com/shafikshaon/bd-income-tax-calculator)
 <!--END_SECTION:activity-->
 
 
