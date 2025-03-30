@@ -233,10 +233,10 @@ Here are some ideas to get you started:
 ## 📕 My Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Backend Journey: Mastering Advanced Scaling Techniques for Modern Backend Development](https://shafik.xyz/2023/05/backend-journey-mastering-advanced-scaling-techniques-for-modern-backend-development.html)
-- [Backend Journey: Mastering Monitoring for Modern Backend Development](https://shafik.xyz/2023/05/backend-journey-mastering-monitoring-for-modern-backend-development.html)
-- [Backend Journey: Mastering Web Servers for Robust Backend Development](https://shafik.xyz/2023/05/backend-journey-mastering-web-servers-for-robust-backend-development.html)
-- [Backend Journey: Embracing Docker and Kubernetes in the Era of Containerization and Virtualization](https://shafik.xyz/2023/05/backend-journey-embracing-docker-and-kubernetes-in-the-era-of-containerization-and-virtualization.html)
-- [Backend Journey: Exploring Message Brokers in Backend Architecture](https://shafik.xyz/2023/05/backend-journey-exploring-message-brokers-in-backend-architecture.html)
+- [Backend Journey: Mastering Advanced Scaling Techniques for Modern Backend Development](https://shafik.xyz/post/031.backend-journey-mastering-advanced-scaling-techniques-for-modern-backend-development/)
+- [Backend Journey: Mastering Monitoring for Modern Backend Development](https://shafik.xyz/post/030.backend-journey-mastering-monitoring-for-modern-backend-development/)
+- [Backend Journey: Mastering Web Servers for Robust Backend Development](https://shafik.xyz/post/029.backend-journey-mastering-web-servers-for-robust-backend-development/)
+- [Backend Journey: Embracing Docker and Kubernetes in the Era of Containerization and Virtualization](https://shafik.xyz/post/028.backend-journey-embracing-docker-and-kubernetes-in-the-era-of-containerization-and-virtualization/)
+- [Backend Journey: Exploring Message Brokers in Backend Architecture](https://shafik.xyz/post/027.backend-journey-exploring-message-brokers-in-backend-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
