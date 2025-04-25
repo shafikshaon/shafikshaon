@@ -1,41 +1,55 @@
-### Hi there 👋
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shafikshaon&&style=flat-square&color=green" align="center" />
-</div> 
+  
+# 👋 Welcome to Shafik's Code Universe 🌌
 
-### <div align="center">I'm Shafik, a full-time full-stack developer 👨‍💻 since 2018 🚀</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=shafikshaon&&style=flat-square&color=brightgreen)](https://github.com/shafikshaon)
 
-- 🔭 I’m currently working on [Vivasoft ltd](https://www.vivasoftltd.com/)
-- 🌱 I’m currently learning **Go**, **NestJS**, **DynamoDB** and **Kubernetes**
-- 💬 Ask me about anything related to **Go**, **Python** and **Django**
-- 😄 Pronouns: He/Him
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF736&center=true&vCenter=true&random=false&width=435&lines=Code+Archaeologist+since+2018;Decipherer+of+Legacy+Code;Crafting+digital+solutions+since+2018;Go+%7C+Python+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" />
 
-<hr/>
+</div>
 
-<!--
-**shafikshaon/shafikshaon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub
-profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="200"/>
+</div>
 
-Here are some ideas to get you started:
+## 🧠 About Me - The Code Connoisseur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shafikshaon/bd-income-tax-calculator/pull/1) in [shafikshaon/bd-income-tax-calculator](https://github.com/shafikshaon/bd-income-tax-calculator)
-2. 🎉 Merged PR [#2](https://github.com/shafikshaon/bd-income-tax-calculator/pull/2) in [shafikshaon/bd-income-tax-calculator](https://github.com/shafikshaon/bd-income-tax-calculator)
-<!--END_SECTION:activity-->
+```go
+package main
 
+import "fmt"
 
-## Skills
+type CodeEnthusiast struct {
+    Name          string
+    Passion       string
+    Experience    string
+    Company       string
+    Learning      []string
+    AskMeAbout    []string
+    Pronouns      string
+    DailyRoutine  string
+}
 
-### 📜 Programming Languages
+func main() {
+    me := CodeEnthusiast{
+        Name:         "Shafik",
+        Passion:      "Deciphering & Writing Elegant Code",
+        Experience:   "Since 2018 🚀",
+        Company:      "Vivasoft ltd",
+        Learning:     []string{"Go", "NestJS", "DynamoDB", "Kubernetes"},
+        AskMeAbout:   []string{"Go", "Python", "Django"},
+        Pronouns:     "He/Him",
+        DailyRoutine: "Reading others' code, crafting solutions",
+    }
+    
+    fmt.Println("Hello World! I'm", me.Name, "- a passionate code reader & writer")
+}
+```
+
+## 🛠️ Technology Arsenal
+
+<details>
+<summary>📜 Programming Languages</summary>
 <p align="left">
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -50,8 +64,10 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
+</details>
 
-### 🖥 Frontend Development
+<details>
+<summary>🖥️ Frontend Development</summary>
 <p align="left">
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -72,8 +88,10 @@ Here are some ideas to get you started:
        <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
    </a>
 </p>
+</details>
 
-### 🗄️ Backend Development
+<details>
+<summary>🗄️ Backend Development</summary>
 <p align="left">
     <a href="https://gin-gonic.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="40" height="40"/>
@@ -91,8 +109,10 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
     </a>
 </p>
+</details>
 
-### 💾 Database
+<details>
+<summary>💾 Database</summary>
 <p align="left">
    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
        <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
@@ -119,8 +139,10 @@ Here are some ideas to get you started:
        <img src="https://www.vectorlogo.zone/logos/cockroachlabs/cockroachlabs-icon.svg" alt="cockroachdb" width="40" height="40"/>
    </a>
 </p>
+</details>
 
-### 📈 Data Visualization
+<details>
+<summary>📈 Data Visualization</summary>
 <p align="left">
    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
@@ -135,8 +157,10 @@ Here are some ideas to get you started:
        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
    </a>
 </p>
+</details>
 
-### 🗂 DevOps
+<details>
+<summary>🗂 DevOps</summary>
 <p align="left">
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -157,80 +181,27 @@ Here are some ideas to get you started:
        <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="newrelic" width="40" height="40"/>
    </a>
 </p>
+</details>
 
-
-### 🎢 Framework
-<p align="left">
-   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-   </a>
-   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-       <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
-   </a>
-   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-   </a>
-   <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-       <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gin" width="40" height="40"/>
-   </a>
-</p>
-
-## 🔃 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafikshaon" alt="shafikshaon" />
-</p>
+## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-nine-chi.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&username=shafikshaon" height="200" alt="stats graph"  />
-
-  <img src="https://github-stats-nine-chi.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&username=shafikshaon" height="200" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafikshaon&theme=tokyonight" alt="shafikshaon" />
 </div>
 
-## ❓ My StackOverflow Stats:
-
-<a href="https://stackoverflow.com/users/4751726/shafik" target="_blank"><img src="https://github-readme-stackoverflow.vercel.app/?userID=4751726" height="300" /></a>
-
------
-<!-- STACKOVERFLOW:START -->
-- [Answer by shafikshaon for How to delete all records which is 24 hours old using django ORM?](https://stackoverflow.com/questions/73517877/how-to-delete-all-records-which-is-24-hours-old-using-django-orm/73517951#73517951)
-- [Answer by shafikshaon for Django restframework viewset serializer KeyError](https://stackoverflow.com/questions/69998671/django-restframework-viewset-serializer-keyerror/69998832#69998832)
-- [Answer by shafikshaon for SSL certificates and https for AWS hosted django site](https://stackoverflow.com/questions/69939738/ssl-certificates-and-https-for-aws-hosted-django-site/69939782#69939782)
-- [Answer by shafikshaon for How to add conditions with VUE for classes](https://stackoverflow.com/questions/69939615/how-to-add-conditions-with-vue-for-classes/69939750#69939750)
-- [Answer by shafikshaon for AttributeError: module &#39; &#39; has no attribute &#39;Command&#39;](https://stackoverflow.com/questions/69938223/attributeerror-module-has-no-attribute-command/69939668#69939668)
-<!-- STACKOVERFLOW:END -->
-
-
-## 🐍 Snake
-
-<img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/output/snake.svg" alt="Snake animation" />
-
-## :books: Quotes
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/shafikshaon/shafikshaon)
-
-
-## 📫 Reach me:
-
 <div align="center">
-<a href="https://twitter.com/shafikshaon" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/shafikshaon" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/shafikshaon" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/4751726/shafik" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://shafikshaon.medium.com" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <img src="https://github-stats-nine-chi.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=shafikshaon" height="200" alt="stats graph"  />
 
+  <img src="https://github-stats-nine-chi.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=shafikshaon" height="200" alt="languages graph"  />
+</div>
 
+## :zap: Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/shafikshaon/bd-income-tax-calculator/pull/1) in [shafikshaon/bd-income-tax-calculator](https://github.com/shafikshaon/bd-income-tax-calculator)
+2. 🎉 Merged PR [#2](https://github.com/shafikshaon/bd-income-tax-calculator/pull/2) in [shafikshaon/bd-income-tax-calculator](https://github.com/shafikshaon/bd-income-tax-calculator)
+<!--END_SECTION:activity-->
 
-## 📕 My Recent Writing
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Backend Journey: Mastering Advanced Scaling Techniques for Modern Backend Development](https://shafik.xyz/post/031.backend-journey-mastering-advanced-scaling-techniques-for-modern-backend-development/)
@@ -240,3 +211,46 @@ Here are some ideas to get you started:
 - [Backend Journey: Exploring Message Brokers in Backend Architecture](https://shafik.xyz/post/027.backend-journey-exploring-message-brokers-in-backend-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
+## 🏆 StackOverflow Stats
+
+<div align="center">
+  <a href="https://stackoverflow.com/users/4751726/shafik" target="_blank">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=4751726&theme=dark" height="300" />
+  </a>
+</div>
+
+<!-- STACKOVERFLOW:START -->
+- [Answer by shafikshaon for How to delete all records which is 24 hours old using django ORM?](https://stackoverflow.com/questions/73517877/how-to-delete-all-records-which-is-24-hours-old-using-django-orm/73517951#73517951)
+- [Answer by shafikshaon for Django restframework viewset serializer KeyError](https://stackoverflow.com/questions/69998671/django-restframework-viewset-serializer-keyerror/69998832#69998832)
+- [Answer by shafikshaon for SSL certificates and https for AWS hosted django site](https://stackoverflow.com/questions/69939738/ssl-certificates-and-https-for-aws-hosted-django-site/69939782#69939782)
+- [Answer by shafikshaon for How to add conditions with VUE for classes](https://stackoverflow.com/questions/69939615/how-to-add-conditions-with-vue-for-classes/69939750#69939750)
+- [Answer by shafikshaon for AttributeError: module &#39; &#39; has no attribute &#39;Command&#39;](https://stackoverflow.com/questions/69938223/attributeerror-module-has-no-attribute-command/69939668#69939668)
+<!-- STACKOVERFLOW:END -->
+
+## 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/shafikshaon/shafikshaon/output/snake.svg" alt="Snake animation" />
+
+## ✨ Inspirational Quote
+
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/shafikshaon/shafikshaon)
+  
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shafikshaon)
+[![Dev.to](https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shafikshaon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafikshaon)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4751726/shafik)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://shafikshaon.medium.com)
+  
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
