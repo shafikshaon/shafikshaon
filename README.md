@@ -204,11 +204,11 @@ func main() {
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Blue/Green Deployments for Go Microservices with PostgreSQL Aurora, DynamoDB, and SQS](https://shafik.xyz/post/032.implementing-blue-green-deployments-go-microservices-aws/)
 - [Backend Journey: Mastering Advanced Scaling Techniques for Modern Backend Development](https://shafik.xyz/post/031.backend-journey-mastering-advanced-scaling-techniques-for-modern-backend-development/)
 - [Backend Journey: Mastering Monitoring for Modern Backend Development](https://shafik.xyz/post/030.backend-journey-mastering-monitoring-for-modern-backend-development/)
 - [Backend Journey: Mastering Web Servers for Robust Backend Development](https://shafik.xyz/post/029.backend-journey-mastering-web-servers-for-robust-backend-development/)
 - [Backend Journey: Embracing Docker and Kubernetes in the Era of Containerization and Virtualization](https://shafik.xyz/post/028.backend-journey-embracing-docker-and-kubernetes-in-the-era-of-containerization-and-virtualization/)
-- [Backend Journey: Exploring Message Brokers in Backend Architecture](https://shafik.xyz/post/027.backend-journey-exploring-message-brokers-in-backend-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 StackOverflow Stats
