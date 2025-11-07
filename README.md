@@ -197,8 +197,8 @@ func main() {
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [shafikshaon/daybook](https://github.com/shafikshaon/daybook)
-2. 🎉 Merged PR [#2](https://github.com/shafikshaon/bd-income-tax-calculator/pull/2) in [shafikshaon/bd-income-tax-calculator](https://github.com/shafikshaon/bd-income-tax-calculator)
+1. 💪 Opened PR [#6](undefined) in [shafikshaon/daybook](https://github.com/shafikshaon/daybook)
+2. 💪 Opened PR [#5](undefined) in [shafikshaon/daybook](https://github.com/shafikshaon/daybook)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
