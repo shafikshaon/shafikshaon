@@ -197,8 +197,8 @@ func main() {
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](undefined) in [shafikshaon/billing](https://github.com/shafikshaon/billing)
-2. 💪 Opened PR [#13](undefined) in [shafikshaon/billing](https://github.com/shafikshaon/billing)
+1. 💪 Opened PR [#16](undefined) in [shafikshaon/billing](https://github.com/shafikshaon/billing)
+2. 💪 Opened PR [#15](undefined) in [shafikshaon/billing](https://github.com/shafikshaon/billing)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
