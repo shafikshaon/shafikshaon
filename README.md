@@ -197,8 +197,8 @@ func main() {
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](undefined) in [shafikshaon/url_shortener](https://github.com/shafikshaon/url_shortener)
-2. 💪 Opened PR [#18](undefined) in [shafikshaon/url_shortener](https://github.com/shafikshaon/url_shortener)
+1. 💪 Opened PR [#4](undefined) in [shafikshaon/tailwind_theme](https://github.com/shafikshaon/tailwind_theme)
+2. 💪 Opened PR [#3](undefined) in [shafikshaon/tailwind_theme](https://github.com/shafikshaon/tailwind_theme)
 <!--END_SECTION:activity-->
 
 ## 📝 Latest Blog Posts
